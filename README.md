@@ -16,7 +16,8 @@ Voting application version 1.2.1
 
     1.4 Submit Vote: When you filled the form then click on Submit Vote button to submit your vote.
     
-    
+  ![user](https://user-images.githubusercontent.com/54997938/124775759-84077a80-df5c-11eb-8340-b434680ae66d.jpg)
+  ![user2](https://user-images.githubusercontent.com/54997938/124775776-87026b00-df5c-11eb-8670-d37cfa652797.jpg)  
 
 
 
@@ -45,3 +46,4 @@ In the admin you can perform three tasks. You can register voter, you can regist
      3.2. Party Head: Write party chairman name in Party Head field.
 
      3.3. Register Party: Once you filled Party Name and Party Head fields then click on this Register Party button to register party for election.
+     
