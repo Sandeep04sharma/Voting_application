@@ -3,6 +3,14 @@ This is simple GUI voting application built in python and MySql database.
 
 ##### Here is my project description.
 
+### Requirement:
+ * Python-3
+ * from PyQt5 import QtCore, QtGui, QtWidgets
+ * import pymysql   (pip install pymql)
+ * Qt-designer for faster GUI creation, here is [Qt-designer](https://www.qt.io/product/ui-design-tools)
+ * XAMPP, where you can access diffrent databases (like Apache, MySql, Mercury, Tomcat etc.), link is here [XAMPP](https://www.apachefriends.org/index.html)
+ 
+
 
 Voting application version 1.2.1
 
@@ -37,7 +45,7 @@ In the admin you can perform three tasks. You can register voter, you can regist
 
      2.3. Register Voter: Once you filled the Name and Id Card No field then click on Register Vote         button to register voter.
 
-
+   ![admin1](https://user-images.githubusercontent.com/54997938/124776424-10b23880-df5d-11eb-8361-2e9fca4c4a1d.jpg)
 
   3. Add Party: In this section you can register political party for election. Essentially this section does't perform any specific work in this application right now, but we will use this section in future versions of this voting application.
 
@@ -47,3 +55,6 @@ In the admin you can perform three tasks. You can register voter, you can regist
 
      3.3. Register Party: Once you filled Party Name and Party Head fields then click on this Register Party button to register party for election.
      
+
+![party](https://user-images.githubusercontent.com/54997938/124776429-127bfc00-df5d-11eb-88ce-b3fadaabbd10.jpg)
+
